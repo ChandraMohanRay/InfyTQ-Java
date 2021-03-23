@@ -11,7 +11,7 @@ Below you will find the process and workflow used to review and merge your chang
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Note : Every change in this project should/must have an associated issue. 
 
-![Screenshot (190)]()
+![issue](https://user-images.githubusercontent.com/66899360/112125280-410ddb00-8be9-11eb-949c-c2f321f1d490.png)
 
 ## Step 2 : Fork the Project
 - Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in `upstream` remote.
@@ -20,7 +20,7 @@ $ git clone https://github.com/<your-username>/Amazing-Python-Scripts
 $ cd Amazing-Python-Scripts
 $ git remote add upstream https://github.com/avinashkranjan/Amazing-Python-Scripts
 ```
-![Screenshot (191)]()
+![pull](https://user-images.githubusercontent.com/66899360/112125324-4e2aca00-8be9-11eb-8e97-8ec5ec5aecb9.png)
 
 
 - If you have already forked the project, update your copy before working.
